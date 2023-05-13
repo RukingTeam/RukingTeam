@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RukingTeam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- hello and Assalamualaikum
+- ruk1ng cybersecurity white hat
+- tools tester ruking
+- happy hacking
+- Cyber Security Tester Tools
 
 <!---
 RukingTeam/RukingTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
